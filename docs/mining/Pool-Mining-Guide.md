@@ -50,12 +50,6 @@ Below is a list of mining pools in alphabetic order. We encourage you to [send a
 - Telegram: https://t.me/alephium_pool
 - Discord: https://discord.gg/ZXYU2NGx
 
-#### Coinhunters Pool
-
-- Website: https://alph.coinhunters.space
-- Telegram (EN): https://t.me/alph_coinhunters_en
-- Telegram (RU): https://t.me/alph_gravitsapapool_ru
-
 #### Metapool (Community pool)
 
 - Website: https://www.metapool.tech
