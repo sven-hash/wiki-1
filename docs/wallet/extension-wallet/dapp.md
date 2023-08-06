@@ -22,6 +22,10 @@ package.
 npm install --save @alephium/get-extension-wallet
 ```
 
+```
+yarn add @alephium/get-extension-wallet
+```
+
 The following code shows how to connect to the extension wallet using
 pure typescript:
 
@@ -63,6 +67,10 @@ including extension wallet.
 
 ```
 npm install --save @alephium/web3-react
+```
+
+```
+yarn add @alephium/web3-react
 ```
 
 A minimal example is shown below:
